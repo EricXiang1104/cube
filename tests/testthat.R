@@ -9,4 +9,6 @@
 library(testthat)
 library(cube)
 
-test_check("cube")
+test_that("cube a number", {
+  expect_equal(cube(3), 27)
+})
