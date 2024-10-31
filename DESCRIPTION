@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Eric", "Xiang", , "eric.xiang@hli.ubc.ca", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Convenient function to calculate cube of a number 
+Description: Convenient function to calculate cube of a number. 
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
